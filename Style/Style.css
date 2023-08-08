@@ -1,0 +1,33 @@
+h1{
+    color: rgb(0, 0, 230);
+}
+
+tr{
+    color: rgb(0, 140, 255);
+}
+
+body{
+    background-color: coral;
+}
+
+header{
+    background-color: burlywood;
+    width: 100%;
+}
+
+footer{
+    background-color:coral;
+    width: 100%;
+}
+
+img{
+    margin-left: 10px;
+}
+
+.cuerpo{
+    border: 100%;
+    border-style:groove;
+    border-color: coral;
+    border-radius: 20px;
+    background-color: burlywood;
+}
